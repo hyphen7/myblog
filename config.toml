@@ -1,0 +1,9 @@
+author = "Ba56lloon"
+baseURL = "https://hyphen7.github.io/"
+languageCode = "ja"
+theme = "hugo-zen"
+title = "Hyphen-Seven"
+copyright = "Ba56lloon All rights reserved."
+
+[params]
+ logo = "/images/bakeneko.png"
