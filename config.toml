@@ -1,9 +1,13 @@
-author = "Ba56lloon"
-baseURL = "https://hyphen7.github.io/"
+baseurl = "https://hyphen7.github.io/"
 languageCode = "ja"
-theme = "hugo-zen"
 title = "Hyphen-Seven"
-copyright = "Ba56lloon All rights reserved."
+disqusShortname = "Ba56lloon"
+theme = "angels-ladder"
 
-[params]
- logo = "/images/bakeneko.png"
+[Params]
+subtitle = "Learn and Be curious."
+twitter = "https://twitter.com/612kygo"
+github = "https://github.com/hyphen7"
+showsRSS = true
+profile = "/images/bakeneko.png"
+copyright = "Written by Ba56lloon"
