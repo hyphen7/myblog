@@ -1,7 +1,7 @@
 baseurl = "https://hyphen7.github.io/"
 languageCode = "ja"
 title = "Hyphen-Seven"
-disqusShortname = "Ba56lloon"
+disqusShortname = "hyphen7blog"
 theme = "angels-ladder"
 
 [Params]
