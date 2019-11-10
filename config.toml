@@ -6,8 +6,8 @@ theme = "angels-ladder"
 
 [Params]
 subtitle = "Learn and Be curious."
-twitter = "https://twitter.com/612kygo"
+twitter = "https://twitter.com/"
 github = "https://github.com/hyphen7"
 showsRSS = true
 profile = "/images/bakeneko.png"
-copyright = "Written by Ba56"
+copyright = "Written by Takuma"
